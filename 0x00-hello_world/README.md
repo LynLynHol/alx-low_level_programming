@@ -3,3 +3,4 @@ A C program that prints given words
 This task Write a script that compiles a C file but does not link.
 This task generates the assembly code of a C code and save it in an output file.
 This script compiles a C file and creates an executable named cisfun
+This c program prints exactly what is given followed by a new line
